@@ -1,7 +1,10 @@
-TUGAS 1
+## TUGAS 1
 Nama: Sifa Maryam Rahman
+
 NPM:	41155050210031
+
 Kelas:	TIF A1
+
 
 1.	Hasil dari Jupiter Notebook
  ![image](https://github.com/user-attachments/assets/ddd4e6f1-d939-45b0-b9ae-3a1a23dfb370)
