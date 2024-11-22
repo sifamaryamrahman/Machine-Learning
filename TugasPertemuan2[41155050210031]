@@ -1,0 +1,85 @@
+
+1.	Berikut adalah hasil praktik dari video youtube https://youtu.be/lcjq7-2zMSA?si=f4jWJR6lY8y0BZKl
+
+1.1.	 Sample dataset
+ 
+1.2.	Visualisasi dataset
+ 
+ 
+1.3.	Transformasi dataset
+ 
+1.4.	Training Simple Linear Regression Model
+ 
+ 
+1.5.	Visualisasi Simple Linear Regression Model | Penjelasan persamaan garis linear
+ 
+
+ 
+ 
+1.6.	Kalkulasi nilai slope
+ 
+ 
+ 
+1.7.	Kalkukasi nilai intercept
+ 
+1.8.	Prediksi harga pizza dengan Simple Linear Regression Model
+ 
+
+ 
+1.9.	 Evaluasi model dengan Coefficient of Determination | R Squared
+ 
+1.10.	Kalkulasi nilai R Squared | Coefficient of Determination
+ 
+
+ 
+2.	Berikut adalah hasil praktik dari video youtube https://youtu.be/nWJUJenAyB8?si=BQDzWwrMnr8jtzpV 
+
+2.1.	 Persiapan sample dataset
+ 
+ 
+
+ 
+2.2.	Preprocessing dataset
+ 
+2.3.	 Pengenalan Multiple Linear Regression | Apa itu Multiple Linear Regression?
+ 
+
+ 
+2.4.	Pengenalan Polynomial Regression | Apa itu Polynomial Regression?
+2.5.	 Quadratic Polynomial Regression
+ 
+ 
+ 
+ 
+
+2.6.	 Linear Regression vs Quadratic Polynomial Regression vs Cubic Polynomial Regression
+ 
+ 
+ 
+ 
+3.	Berikut adalah hasil praktik dari video youtube https://youtu.be/oe7DW4rSH1o?si=H-PZJ9rs9-Kab-Ln 
+3.1.	Formula dasar pembentuk Logistic Regression | Fungsi Sigmoid
+3.2.	Persiapan dataset | SMS Spam Collection Dataset
+ 
+
+3.3.	Pembagian training dan testing set
+ 
+
+ 
+3.4.	Feature extraction dengan TF-IDF
+ 
+3.5.	Binary Classification dengan Logistic Regression
+ 
+ 
+3.6.	Evaluation Metrics pada Binary Classification Task
+3.7.	Pengenalan Confusion Matrix
+   
+3.8.	Pengenalan Accuracy Score
+ 
+ 
+3.9.	Pengenalan Precision dan Recall
+3.10.	Pengenalan F1 Score | F1 Measure
+ 
+3.11.	Pengenalan ROC | Receiver Operating Characteristic
+ 
+ 
